@@ -1,0 +1,21 @@
+{
+  "name": "pruebacomponentes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build":"tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "16.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.25",
+    "react": "^16.13.1",
+    "typescript": "^3.8.3"
+  }
+}
